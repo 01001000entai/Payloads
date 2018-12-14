@@ -1,7 +1,7 @@
 <?php echo 8836*5436;?>
+<jsp:scriptlet>
+out.print(8836*5436);
+</jsp:scriptlet>
 <%
 response.write(8836*5436)
-%>
-<%
-out.print(8836*5436);
 %>
